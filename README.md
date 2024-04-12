@@ -6,3 +6,5 @@ var elevation = dataset.select('elevation');
 var data = dataset.clip(roi); //Costa Rica, El Salvador y Panamá
 var SA_DEM = data.select('elevation')
 print(SA_DEM,'elevation');
+
+[google_ee_Arguello.txt](https://github.com/AriANCA/CloudComputing_finalproject/files/14964557/google_ee_Arguello.txt)
