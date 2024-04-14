@@ -15,5 +15,5 @@ NDVI values between 0 and 0.3 indicate barren areas with little to no vegetation
 Over the previous decades, rapid urbanization and deforestation in the study region resulted in a loss of vegetation, exposing bare soil and rock to sunlight in the study region. This decreases thermal inertia and surface heat energy leading to high LST zones. In addition to urbanization and deforestation, uneven topography also led to high LST zones. LST and elevation findings showed an inverse distribution pattern, indicating that LST increases as elevation decreases. The LST is lower in high-elevation areas than in lower-elevation areas. The land surface temperature characteristics of a region are influenced by natural factors such as latitude, elevation, and the presence of ocean currents. The precipitation characteristics of a region are influenced by factors such as proximity to mountain ranges and prevailing winds, being the reason why the result of a country of Costa Rica has the lowest LST.
 
 https://code.earthengine.google.com/d745dbba8d1ae09389080a2bbea26532 
-[google_ee_Arguello.txt]
+
 (https://github.com/AriANCA/CloudComputing_finalproject/files/14964557/google_ee_Arguello.txt)
